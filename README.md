@@ -46,6 +46,9 @@ See https://github.com/emsesp/EMS-ESP32 .
 
 # INSTALL
 
+This utility is written in Perl, so you need a Perl installation.
+Perl is usually present on most Linux type systems.
+
 Install the necessary modules:
 
     $ cpan LWP::UserAgent HTTP::Headers Time::HiRes JSON::PP
