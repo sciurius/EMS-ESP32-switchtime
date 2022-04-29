@@ -1,10 +1,10 @@
-# NAME
+# switchtime
 
-switchtime - inspect/modify thermostat switch times
+Utility to inspect/modify thermostat switch times
 
 # DESCRIPTION
 
-**This program** has three functions.
+This program has three functions.
 
 One is to inspect the current switch times programmed in the thermostat.
 For this, do not supply any arguments.
